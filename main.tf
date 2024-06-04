@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     bucket = "oidc-terraform-tfstate-file"
-    key = "oidc-terraform-tfstate-file"
+    key = "oidc-infra.tfstate"
     region = "eu-west-3"
   }
 }
