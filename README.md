@@ -67,7 +67,3 @@ This workflow triggers on pushes to the `main` branch. It performs the following
 
 - Triggered on pushes to the `main` branch.
 - Automatically destroys the infrastructure managed by Terraform.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
